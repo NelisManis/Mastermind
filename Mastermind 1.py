@@ -86,3 +86,6 @@ root.config(bg = 'black')
 root.attributes('-fullscreen', True)
 startscherm(root)
 root.mainloop()
+
+
+'Hallooooooo'
